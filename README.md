@@ -1,5 +1,5 @@
 # naive-rag
-# 🎥 YouTube Video Q&A (RAG)
+# YouTube Video Q&A (RAG)
 
 A Retrieval-Augmented Generation app that answers questions about any YouTube
 video from its transcript. Paste a URL, build the index, and ask questions —
